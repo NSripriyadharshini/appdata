@@ -1,0 +1,304 @@
+[
+    {
+        "id": 1,
+        "rating":4.7,
+        "product_name":"Lenskart Air",
+        "category_id":1,
+        "image":"https://i.ibb.co/TgzMvBt/1.jpg",
+        "size":"Wide.Shark Tank"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 2,
+        "rating":4.7,
+        "product_name":"Lenskart Air",
+        "category_id":1,
+        "image":"https://i.ibb.co/jHmrcqb/2.jpg",
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 3,
+        "rating":4.8,
+        "product_name":"Vincent Chase",
+        "category_id":1,
+        "image":"https://i.ibb.co/Twv73hG/3.jpg",
+        "size":"Narrow.Sleek Steel"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 4,
+        "rating":4.6,
+        "product_name":"Vincent Chase",
+        "category_id":1,
+        "image":"https://i.ibb.co/XyHTXzs/4.jpg",
+        "size":"Medium.Sleek Steel"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 5,
+        "rating":4.7,
+        "product_name":"Lenskart Air",
+        "category_id":1,
+        "image":"https://i.ibb.co/9GQ9pRB/5.jpg",
+        "size":"Medium.Air Flex"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 6,
+        "product_name":"Vincent Chase",
+        "category_id":1,
+        "image":"https://i.ibb.co/gP8cpRN/6.jpg",
+        "size":"Extra Narrow.Helios"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 7,
+        "rating":4.7,
+        "product_name":"Vincent chase",
+        "category_id":1,
+        "image":"https://i.ibb.co/BCTBtGD/7.jpg",
+        "size":"Wide.Classic Acetate"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 8,
+        "rating":4.8,
+        "product_name":"Vincent chase",
+        "category_id":1,
+        "image":"https://i.ibb.co/Kqv9H5x/8.jpg",
+        "size":"Medium.Sleek Steel"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 9,
+        "rating":4.7,
+        "product_name":"Lenskart Air",
+        "category_id":1,
+        "image":"https://i.ibb.co/87Bz5xb/9.jpg",
+        "size":"Wide.Air Classic"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 10,
+        "product_name":"Lenskart Air",
+        "category_id":1,
+        "image":"https://i.ibb.co/rFhyc35/10.jpg" 
+        "size":"Extra Narrow.Lenskart Play"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 11,
+        "rating":,
+        "product_name":"OJOS",
+        "category_id":2,
+        "image":"https://i.ibb.co/M7cszmk/1.jpg",
+        "size":"Extra Wide.OJOS"
+        "price":1699,
+        "offer":"60% OFF. Voucher: TRYUS"
+    },
+    {
+        "id": 12,
+        "rating":4.3,
+        "product_name":"Vincent Chase",
+        "category_id":2,
+        "image":"https://i.ibb.co/RprbMw4/2.jpg"
+        "size":"Narrow.Livewire"
+        "price":1599,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 13,
+        "rating":4.3,
+        "product_name":"Vincent Chase Polarized",
+        "category_id":2,
+        "image":"https://i.ibb.co/YcSqRzD/3.jpg",
+        "size":"Medium"
+        "price":1599,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 14,
+        "rating":4.3,
+        "product_name":"OJOS",
+        "category_id":2,
+        "image":"https://i.ibb.co/pf6Vb8g/4.jpg",
+        "size":"Extrawide.OJOS"
+        "price":1699,
+        "offer":"60% OFF. Voucher: TRYUS"
+    },
+    {
+        "id": 15,
+        "product_name":"Vincent Chase Polarized",
+        "category_id":2,
+        "image":"https://i.ibb.co/DKy7s3t/5.jpg",
+        "size":"Medium.Met Effect"
+        "price":1599,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 16,
+        "product_name":"Vincent Chase Polarized",
+        "category_id":2,
+        "image":"https://i.ibb.co/rdzd22H/6.jpg"
+        "size":"Medium"
+        "price":1599,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 17,
+        "product_name":"Vincent Chase Polarized",
+        "category_id":2,
+        "image":"https://i.ibb.co/84ZWwRR/7.jpg",
+        "size":"Medium.Met Effect"
+        "price":1599,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 18,
+        "product_name":"Vincent Chase Polarized",
+        "category_id":2,
+        "image":"https://i.ibb.co/5YYWwqX/8.jpg",
+        "size":"Wide"
+        "price":1599,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 19,
+        "product_name":"Vincent Chase Polarized",
+        "category_id":2,
+        "image":"https://i.ibb.co/BrK5Rbx/9.jpg",
+        "size":"Narrow.Met Effect"
+        "price":1599,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 20,
+        "product_name":"Vincent Chase Polarized",
+        "category_id":2,
+        "image":"https://i.ibb.co/McGvXNz/10.jpg",
+        "size":"Size: Extra Wide•NON-Power"
+        "price":1299,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 21,
+        "rating":4.7,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/4TXchcg/1.jpg",
+        "size":"Wide.Shark Tank"
+        "price":1699,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 22,
+        "rating":4.5,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/3T3Gd7K/2.jpg",
+        "size":"Wide.Zero Power"
+        "price":1499,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 23,
+        "rating":4.5,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/gJF7sk7/3.jpg",
+        "size":"Medium.Zero Power"
+        "price":1199,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 24,
+        "rating":4.4,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/dBxJF7P/4.jpg",
+        "size":"Wide.Zero Power"
+        "price":1499,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 25,
+        "rating":4.5,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/y8G4NGM/5.jpg",
+        "size":"Wide.Zero Power"
+        "price":1499,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 26,
+        "rating":4.5,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/BNhqd5v/6.jpg",
+        "size":"Medium.Zero Power"
+        "price":1499,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 27,
+        "rating":4.4,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/F3Wjs3Z/7.jpg",
+        "size":"Medium.Zero Power"
+        "price":1499,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 28,
+        "rating":4.5,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/BNfgxGj/8.jpg",
+        "size":"wide.Zero Power"
+        "price":1499,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 29,
+        "rating":4.5,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/0cWv6VV/9.jpg",
+        "size":"Medium.Zero Power"
+        "price":1499,
+        "offer":"BUY1 GET1 FREE"
+    },
+    {
+        "id": 30,
+        "rating":4.5,
+        "product_name":"Lenskart Blu",
+        "category_id":3,
+        "image":"https://i.ibb.co/F7httqV/10.jpg",
+        "size":"Wide.Zero Power"
+        "price":1499,
+        "offer":"BUY1 GET1 FREE"
+    },
+    
+
+
+    
+    
+    
+   
+
+
+    
+    
+]

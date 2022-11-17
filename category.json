@@ -1,26 +1,26 @@
 [
     {
         "id":1,
-        "category":"Eyeglasses",
+        "category":"Eyeglasses"
     },
     {
         "id":2,
-        "category":"Sunglasses",
+        "category":"Sunglasses"
     },
     {
         "id":3,
-        "category":"Computer glasses",
+        "category":"Computer glasses"
     },
     {
         "id":4,
-        "category":"Contact lenses",
+        "category":"Contact lenses"
     },
     {
         "id":5,
-        "category":"Power Sunglasses",
+        "category":"Power Sunglasses"
     },
     {
         "id":6,
-        "category":"Progressive lens",
-    },
+        "category":"Progressive lens"
+    }
 ]
